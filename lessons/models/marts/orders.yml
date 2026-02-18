@@ -18,7 +18,7 @@ models:
     access: private
     columns:
 
-    # Columns from stg_ecommerce__orders
+    # Columns from stg_ecommerce__orders (extra text here)
     # We don't test these columns, other than the primary key,
     # as we've already tested them in the staging model. But feel free
     # to add your own tests here!

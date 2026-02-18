@@ -1,4 +1,14 @@
-/venv
+# macOS
+.DS_Store
+
+# dbt generated files
+target/
+dbt_packages/
+logs/
+
+# python virtual environments
+.venv/
+venv/
+
+# local user configs
 .user.yml
-/logs
-logs

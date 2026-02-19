@@ -12,3 +12,5 @@ venv/
 
 # local user configs
 .user.yml
+
+.vscode/

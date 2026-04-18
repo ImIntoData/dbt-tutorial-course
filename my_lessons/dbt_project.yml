@@ -33,3 +33,6 @@ models:
   my_lessons:
     # Config indicated by +
       +materialized: table
+      +persist_docs:
+        relation: true
+        columns: true
